@@ -1,4 +1,4 @@
-<h1 align="center">Design Patterns in use</h1>
+<h1 align="center">Design Patterns In Use</h1>
 <p align="center">
 The most common Design Patterns you need to know with examples in C#.
 </p>
